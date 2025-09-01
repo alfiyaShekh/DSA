@@ -5,4 +5,5 @@ int main(){
     int y;
     cin>>x>>y;
     cout<<x<<y;
+    
 }
